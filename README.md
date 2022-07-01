@@ -1,4 +1,4 @@
-# mindbox-text
+# mindbox-test
 Includes solution for both tasks: Area calculation class libaray and Sql query for products and categories.
 
 For the second tasks there is an **SQL** folder which contains a query for the task. The database diagram for this query looks like the following image.
